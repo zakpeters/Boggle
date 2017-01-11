@@ -1,6 +1,6 @@
 # CS3500 Boggle
 
-Final Project for Software Practices (CS3500). Coded by me and my partner Tyler Gardner.
+Final Project for Software Practices (CS3500). Coded in collaboration with tpgardner.
 
 Designed to match the API specifications described in the "Boggle API.html" file.
 
