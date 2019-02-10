@@ -1,14 +1,12 @@
-# CS3500 Boggle
+## Boggle
 
-Final Project for Software Practices (CS3500). Coded in collaboration with tpgardner.
+Final Project for Software Practices 1. Designed to match the API specifications described in the "Boggle API.html" file. 
 
-Designed to match the API specifications described in the "Boggle API.html" file.
+*Built in collaboration with [tpgardner](https://github.com/tpgardner).*
 
-This repository contains:
 
-Boggle Client: A GUI Application that communicates with a server and allows 2 players to play a game of Boggle.
-
-Boggle Server: Implementation of the Boggle service. 
-
-Unit tests for both projects
+### This repository contains:
+* Boggle Client: Windows Form Application for the players.
+* Boggle Server: RESTful Implementation of the backend service. 
+* Unit tests for both projects.
 
